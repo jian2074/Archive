@@ -1,5 +1,3 @@
-'''
-Lists need to be iterable for this method to work. Not on LeetCode
 def addTwoNumbers(list1,list2):
     val1 = 0
     val2 = 0
@@ -18,5 +16,3 @@ def addTwoNumbers(list1,list2):
     while result[0] == 0:
         result.remove(result[0])
     return result
-'''
-    
