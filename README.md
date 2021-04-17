@@ -1,1 +1,2 @@
-# Archive for Practice Code
+# Archive
+Syntax & Algorithm practices
