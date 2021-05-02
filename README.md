@@ -1,2 +1,2 @@
 # Archive
-Syntax & Algorithm practices
+Algorithm practices
