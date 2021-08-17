@@ -1,5 +1,5 @@
 import java.util.LinkedList;
-
+import java.lang.Enum;
 import org.w3c.dom.Node;
 
 public class RouteBetweenNodes {
